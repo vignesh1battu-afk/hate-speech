@@ -1,0 +1,16 @@
+# Data should never go to GitHub
+Data/
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Envs / secrets
+venv/
+.env
+
